@@ -1,1 +1,1 @@
-# school-totem
+# index.html
